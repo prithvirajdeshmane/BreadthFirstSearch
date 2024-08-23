@@ -100,6 +100,8 @@ The output here would be: `0 1 3 6 8 2 4 5 7 10 9`
 
 Contributions are welcome! If you find any issues or want to add new features, feel free to fork the repository and submit a pull request.
 
+Or, alternately, file an issue [here](https://github.com/prithvirajdeshmane/BreadthFirstSearch/issues)
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the GNU GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
