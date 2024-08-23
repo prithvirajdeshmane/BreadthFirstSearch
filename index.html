@@ -4,10 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Breadth First Search</title>
+    <style>
+      .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: lightgrey;
+        color: black;
+        text-align: center;
+      }
+    </style>
     <script type="module" defer src="App.js"></script>
   </head>
   <body>
     <h1>Breadth First Search</h1>
+    <div>
+      <p>If needed, please refer to</p>
+      <ul>
+        <li>
+          Project details:
+          <a href="./README.md">ReadMe</a>
+        </li>
+        <li>
+          Input format:
+          <a href="./README.md#input-format">Examples</a>
+        </li>
+      </ul>
+    </div>
     <textarea
       id="inputArea"
       rows="10"
@@ -18,5 +42,9 @@
     <button onclick="runBFS()">Run BFS</button>
     <h2>Result:</h2>
     <div id="result"></div>
+    <footer class="footer">
+      <p>Author: Prithviraj Deshmane</p>
+      <p><a href="./LICENSE">GNU GPL-3.0</a></p>
+    </footer>
   </body>
 </html>
