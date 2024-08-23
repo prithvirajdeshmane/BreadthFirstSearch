@@ -23,7 +23,7 @@ The project consists of the following files:
 
 ## Usage
 
-1. Open `index.html` in your web browser.
+1. Open [Demo page](https://prithvirajdeshmane.github.io/BreadthFirstSearch/) in your web browser.
 2. Enter the graph's adjacency list in the textarea provided.
 3. Click the "Run BFS" button to execute the BFS algorithm.
 4. The result of the BFS traversal will be displayed below the button.
