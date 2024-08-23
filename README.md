@@ -37,6 +37,10 @@ The project consists of the following files:
 
 **Example 1:**
 
+<img src="https://github.com/user-attachments/assets/bbc8dbe8-4a1c-4b54-899a-81f5655e6019" width="500px"/>
+
+### Example Input
+
 ```
 3
 1 2
@@ -57,6 +61,10 @@ Given the example input above, the BFS traversal starting from vertex 0 would pr
 
 **Example 2:**
 
+<img src="https://github.com/user-attachments/assets/5c0fc1ba-2ae0-4085-a3bc-900ff575c348" width="500px"/>
+
+### Example Input
+
 ```
 8
 1 5 6
@@ -72,6 +80,10 @@ Given the example input above, the BFS traversal starting from vertex 0 would pr
 The output here would be: `0 1 5 6 2 3 7 4`
 
 **Example 3:**
+
+<img src="https://github.com/user-attachments/assets/62de14be-a07b-45ab-a223-1fdfe3568e37" width="500px"/>
+
+### Example Input
 
 ```
 11
