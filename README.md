@@ -33,13 +33,14 @@ The project consists of the following files:
 - The first line of the input should contain an integer `n`, representing the number of vertices in the graph.
 - The following `n` lines should each contain space-separated integers. Each line represents the adjacency list for a vertex, with the indices corresponding to other vertices it is connected to.
 
-### Example Inputs
+### Examples
 
-**Example 1:**
+#### Example 1:
 
 <img src="https://github.com/user-attachments/assets/bbc8dbe8-4a1c-4b54-899a-81f5655e6019" width="500px"/>
 
-### Example Input
+
+**Input**
 
 ```
 3
@@ -54,16 +55,20 @@ This input represents a graph with 3 vertices:
 - Vertex 1 is connected to vertices 0 and 2.
 - Vertex 2 is connected to vertices 0 and 1.
 
-### Example Output
+
+**Output**
 
 Given the example input above, the BFS traversal starting from vertex 0 would produce the output:
 `0 1 2`
 
-**Example 2:**
+
+
+#### Example 2:
 
 <img src="https://github.com/user-attachments/assets/5c0fc1ba-2ae0-4085-a3bc-900ff575c348" width="500px"/>
 
-### Example Input
+
+**Input**
 
 ```
 8
@@ -77,13 +82,19 @@ Given the example input above, the BFS traversal starting from vertex 0 would pr
 6
 ```
 
+
+**Output**
+
 The output here would be: `0 1 5 6 2 3 7 4`
 
-**Example 3:**
+
+
+#### Example 3:
 
 <img src="https://github.com/user-attachments/assets/62de14be-a07b-45ab-a223-1fdfe3568e37" width="500px"/>
 
-### Example Input
+
+**Input**
 
 ```
 11
@@ -100,7 +111,12 @@ The output here would be: `0 1 5 6 2 3 7 4`
 8
 ```
 
+
+**Output**
+
 The output here would be: `0 1 3 6 8 2 4 5 7 10 9`
+
+
 
 ## Technologies Used
 
